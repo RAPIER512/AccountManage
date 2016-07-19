@@ -12,3 +12,6 @@
 		前后端通讯，采用ajax  
 	4. 后端：spring v4；mysql；freemarker  
 		持久化，使用spring jdbc template(namedparameterjdbctemplate)
+
+
+###打包好的jar包在main中
